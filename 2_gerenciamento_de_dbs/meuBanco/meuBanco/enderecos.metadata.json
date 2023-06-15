@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"meuBanco.enderecos"}],"uuid":"100661f97c044913a1015c8e33570845","collectionName":"enderecos","type":"collection"}
